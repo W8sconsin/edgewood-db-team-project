@@ -8,3 +8,15 @@ This is database application for an upper level database project for a group of 
   * https://github.com/W8sconsin/
 
 * Logan Smith
+
+## Project Description
+This project is database application. Technologies used includ MySQL, HTML, CSS.
+
+## Project Schedule
+
+## Links
+* Using Github Markdown
+  * https://guides.github.com/features/mastering-markdown/
+  
+* Tutorial for Starting with Github
+  *https://guides.github.com/activities/hello-world/
