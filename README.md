@@ -19,4 +19,4 @@ This project is database application. Technologies used includ MySQL, HTML, CSS.
   * https://guides.github.com/features/mastering-markdown/
   
 * Tutorial for Starting with Github
-  *https://guides.github.com/activities/hello-world/
+  * https://guides.github.com/activities/hello-world/
